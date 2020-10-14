@@ -1,0 +1,13 @@
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.exe
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.deps.json
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.runtimeconfig.json
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.runtimeconfig.dev.json
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.dll
+C:\Users\holyj\source\repos\MyProjects\MyProjects\bin\Debug\netcoreapp3.1\MyProjects.pdb
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.csprojAssemblyReference.cache
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.AssemblyInfoInputs.cache
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.AssemblyInfo.cs
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.csproj.CoreCompileInputs.cache
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.dll
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.pdb
+C:\Users\holyj\source\repos\MyProjects\MyProjects\obj\Debug\netcoreapp3.1\MyProjects.genruntimeconfig.cache

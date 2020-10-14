@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OsboV4NsvzAjHmSH+6Rv9o9aIigT0i/xyQS7SORg5NFL3a1sOIPS/sJoVbp65fjjKZWPqVNTBvyg3df+m7o6sQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\holyj\\source\\repos\\MyProjects\\MyProjects\\MyProjects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\holyj\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
